@@ -3,6 +3,7 @@ package PracticeTasks.Task11;
 import java.util.Arrays;
 
 public class Bear extends Animal {
+    
     public Bear(String name) {
         super(name);
     }
